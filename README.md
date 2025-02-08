@@ -1,6 +1,3 @@
-Aquí tienes el `README.md` en formato Markdown completo:
-
-````markdown
 # P2P File Transfer 📤📥
 
 Este es un programa de transferencia de archivos P2P con una interfaz gráfica desarrollada en Python usando `ttkbootstrap`. Permite enviar y recibir archivos fácilmente a través de una conexión de red.
@@ -23,7 +20,7 @@ Asegúrate de tener instalado Python 3 y las siguientes dependencias:
 ```bash
 pip install ttkbootstrap
 ```
-````
+
 
 ## 🎮 Uso
 
@@ -68,7 +65,3 @@ Este proyecto está bajo la licencia MIT.
 
 💡 Desarrollado con ❤️ en Python.
 
-```
-
-Puedes copiar y pegarlo directamente en tu archivo `README.md`. Si necesitas cambios, dime. 🚀
-```
